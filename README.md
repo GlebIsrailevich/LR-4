@@ -3,13 +3,16 @@
 1. Запуск интерактивной  сессии 
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/34023480-0ea0-4675-84f2-493113caa25b)
 2.  Результат создание нод и изменения версий
+
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/06f1ddf4-bf65-4853-802b-43e3f6fb21cd)
 
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/447def7a-91bd-4629-8d73-02f21b15cc73)
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/d2303253-615d-4f3a-b295-28d5eab63a59)
 
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/9e5fcc05-7edd-4a41-82f9-f0ab9d64414c)
+
 4. Работа с узлами
+
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/032eac03-e44e-4979-b31c-04f9ad346ddb)
 
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/6b6aee65-6369-47de-9239-4fe51e2c0c9c)
@@ -29,6 +32,7 @@
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/964c27db-99b5-43ad-9e6e-43155a9e9ec7)
 
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/3f51b28a-0407-4e8b-bd3f-e8360985a55b)
+
 ## Выполнение заданий 
 ### Задача о философах
 У нас есть N философов, обедающих за круглым столом (В нашем случае 5). Перед каждым философом стоит миска спагетти. Между каждой парой соседних философов ставится вилка. Как следствие, у каждого философа есть вилка слева и справа.
