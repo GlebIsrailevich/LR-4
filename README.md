@@ -7,6 +7,7 @@
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/06f1ddf4-bf65-4853-802b-43e3f6fb21cd)
 
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/447def7a-91bd-4629-8d73-02f21b15cc73)
+
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/d2303253-615d-4f3a-b295-28d5eab63a59)
 
 ![image](https://github.com/GlebIsrailevich/LR-4/assets/109220001/9e5fcc05-7edd-4a41-82f9-f0ab9d64414c)
